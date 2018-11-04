@@ -89,7 +89,7 @@ var conn= mysql.createConnection({
                         .prompt([{
                         
                             choices: ["yes", "no"],
-                            message: "Would you like to make another purchase",
+                            message: "Would you like to make another purchase?",
                             name:"Continue"
                         }
                         ]).then(answers => {
