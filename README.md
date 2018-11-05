@@ -11,8 +11,8 @@ This is an Amazon-like store front inventory system using Node.js and MySQL.
 
 ## Technologies Utilized
 
-* Terminal
-* MysqlWorkBench
+* Terminal/Gitbash
+* MySQLWorkbench
 * VS Code
 
 * Node Packages:
