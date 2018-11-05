@@ -1,5 +1,5 @@
 ## Overview
-This is an Amazon-like store front using Node.js and MySQL.
+This is an Amazon-like store front inventory system using Node.js and MySQL.
 
 ## Demo
 
