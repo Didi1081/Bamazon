@@ -21,6 +21,8 @@ This is an Amazon-like store front inventory system using Node.js and MySQL.
 
     inquirer ``` $ npm install inquirer```
     
+    console.table ```npm install console.table ```
+    
     
     
 
