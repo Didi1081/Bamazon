@@ -17,11 +17,11 @@ This is an Amazon-like store front inventory system using Node.js and MySQL.
 
 * Node Packages:
     
-    MySQL ```$ npm install mysql```
+    * MySQL ```$ npm install mysql```
 
-    inquirer ``` $ npm install inquirer```
+    * inquirer ``` $ npm install inquirer```
     
-    console.table ```npm install console.table ```
+    * console.table ```npm install console.table ```
     
     
     
