@@ -104,7 +104,7 @@ var conn= mysql.createConnection({
                     }
                 })
             } else {
-                console.log("Not enough quantity available")
+                console.log("Sorry, this was a popular product and is out of stock.")
             }
         })
 
